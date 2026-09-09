@@ -21,7 +21,7 @@ require (
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239 // indirect
-	github.com/apache/thrift v0.23.0 // indirect
+	github.com/apache/thrift v0.24.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bytedance/sonic v1.9.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect

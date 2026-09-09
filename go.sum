@@ -11,8 +11,8 @@ github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239 h1:kFOfPq6dUM1hTo
 github.com/anmitsu/go-shlex v0.0.0-20161002113705-648efa622239/go.mod h1:2FmKhYUyUczH0OGQWaF5ceTx0UBShxjsH6f8oGKYe2c=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
 github.com/apache/thrift v0.0.0-20161221203622-b2a4d4ae21c7/go.mod h1:cp2SuWMxlEZw2r+iP2GNCdIi4C1qmUzdZFSVb+bacwQ=
-github.com/apache/thrift v0.23.0 h1:wKR6YnefQSEnxpEfmgTPuJibNG4bF0p2TK34tHLWi3s=
-github.com/apache/thrift v0.23.0/go.mod h1:zPt6WxgvTOM6hF92y8C+MkEM5LMxZuk4JcQOiU4Esvs=
+github.com/apache/thrift v0.24.0 h1:zy31L1a49QTNB2bG1BBfMXol3yJrTH975G3pPubQVLQ=
+github.com/apache/thrift v0.24.0/go.mod h1:zPt6WxgvTOM6hF92y8C+MkEM5LMxZuk4JcQOiU4Esvs=
 github.com/benbjohnson/clock v1.1.0 h1:Q92kusRqC1XV2MjkWETPvjJVqKetz1OzxZB7mHJLju8=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
